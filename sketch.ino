@@ -57,3 +57,12 @@ void loop() {
   set_led(0, PLAYER_ONE, LOW);
   delay(1000);
 }
+// |Materials|
+// ° X1 Arduino Mega 
+// ° X9 TRANSISTOR
+// ° X9 Resistor 1M
+// ° X9 Cup "3D Printed"
+// ° XY a lot of jumper
+// ° X18 Resistor 220
+// ° X1 Glue
+// ° X1 Box
